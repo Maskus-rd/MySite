@@ -1,9 +1,8 @@
 body{
   display: flex;
+  justify-content: center;
 }
 
 .Navbar{
   display: flex;
-  justify-content: center;
-  align-item: center;
 }
