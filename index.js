@@ -1,1 +1,4 @@
-<h1>My site</h1>
+import { AppRegistry } from 'react-native';
+import App from './App';
+
+AppRegistry.registerComponent('HelloWorld', () => App);
