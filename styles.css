@@ -2,7 +2,7 @@
 
 body{
   display: flex;
-  flex-direction: vertical;
+  flex-direction: column;
   background-color: purple;
 }
 
