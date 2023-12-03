@@ -19,7 +19,7 @@ body{
   background-color: blue;
 }
 
-.section{
+#content > .section{
   background-color: green;
   border: solid;
 }
