@@ -33,3 +33,7 @@ body{
   border: solid;
   margin: 5px;
 }
+
+#content > .section > #calculator{
+background-color: orange;
+}
