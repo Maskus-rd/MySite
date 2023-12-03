@@ -27,3 +27,9 @@ body{
   border-width: 15px;
   margin: 20px;
 }
+
+.button{
+  background-color: grey;
+  border: solid;
+  margin: 5px;
+}
