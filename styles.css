@@ -18,3 +18,8 @@ body{
 #footer{
   background-color: blue;
 }
+
+.section{
+  background-color: green;
+  border: solid;
+}
