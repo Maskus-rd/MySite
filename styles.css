@@ -21,6 +21,10 @@ body{
   background-color: blue;
 }
 
+.section{
+  display: flex;
+}
+
 #content > .section{
   background-color: green;
   border: solid;
