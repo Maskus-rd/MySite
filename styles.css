@@ -22,5 +22,6 @@ body{
 #content > .section{
   background-color: green;
   border: solid;
+  border-width: 15px;
   margin: 20px;
 }
