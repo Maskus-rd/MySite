@@ -9,6 +9,7 @@ body{
 
 #navBar{
   background-color: red;
+  justify-content: center;
 }
 
 #content{
