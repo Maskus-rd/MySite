@@ -4,6 +4,7 @@ body{
   display: flex;
   flex-direction: column;
   background-color: purple;
+  height: 100vh;
 }
 
 #navBar{
