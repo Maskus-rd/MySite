@@ -22,7 +22,7 @@ body{
 }
 
 .section{
-  display: flex;
+  display: flex;    /*Fix This!!!!!*/
 }
 
 #content > .section{
