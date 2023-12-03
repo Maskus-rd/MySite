@@ -1,1 +1,5 @@
 /* This is a file for all my sites styles. */
+
+body{
+  display: flex;
+}
