@@ -14,11 +14,15 @@ body{
 }
 
 #content{
+  display: flex;
   background-color: white;
+  justify-content: center;
 }
 
 #footer{
+  display: flex;
   background-color: blue;
+  align-items: center;
 }
 
 .section{
