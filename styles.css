@@ -51,8 +51,8 @@ body{
 
 #content > .section > #calculator{
   display: grid;
-  grid-template-columns: repeat(3, 70px);
-  grid-template-rows: repeat(30, 70px); 
+  grid-template-columns: repeat(4, 70px);
+  grid-template-rows: repeat(5, 70px); 
   background-color: orange;
   height: 500px;
   width: 500px;
