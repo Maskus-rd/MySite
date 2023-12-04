@@ -67,8 +67,12 @@ body{
   display: grid;
   margin: 15px;
   grid-template-columns: repeat(4, 70px);
-  grid-template-rows: repeat(5, 70px); 
+  grid-template-rows: repeat(6, 70px); 
   background-color: orange;
   height: auto;
   width: auto;
+}
+
+#screen{
+  grid-column: span 4;
 }
