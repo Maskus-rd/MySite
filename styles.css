@@ -50,6 +50,10 @@ body{
   width: 50px;
 }
 
+#content > .section > #calculator > .button:hover{
+    background-color: yellow;
+}
+
 #content > .section > #calculator > .button2{
   grid-column: span 2;
   display: flex;
@@ -61,6 +65,10 @@ body{
   margin: 5px;
   height: 50px;
   width: auto;
+}
+
+#content > .section > #calculator > .button2:hover{
+    background-color: yellow;
 }
 
 #content > .section > #calculator{
