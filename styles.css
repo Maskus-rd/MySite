@@ -17,13 +17,12 @@ body{
   display: flex;
   flex-direction: column;
   background-color: white;
-  justify-content: center;
 }
 
 #footer{
   display: flex;
   background-color: blue;
-  align-items: center;
+  justify-content: center;
 }
 
 .section{
@@ -31,6 +30,8 @@ body{
 }
 
 #content > .section{
+  display: flex;
+  justify-content: center;
   background-color: green;
   border: solid;
   border-width: 15px;
@@ -38,6 +39,9 @@ body{
 }
 
 #content > .section > #calculator > .button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: grey;
   border: solid;
   margin: 5px;
@@ -46,6 +50,9 @@ body{
 }
 
 #content > .section > #calculator{
+  display: grid;
+  grid-template-columns: repeat(3, 70px);
+  grid-template-rows: repeat(30, 70px); 
   background-color: orange;
   height: 500px;
   width: 500px;
