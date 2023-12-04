@@ -75,4 +75,5 @@ body{
 
 #screen{
   grid-column: span 4;
+  background-color: hsl(35.44, 84.33%, 43.4%);
 }
