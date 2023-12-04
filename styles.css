@@ -63,9 +63,10 @@ body{
 
 #content > .section > #calculator{
   display: grid;
+  margin: 15px;
   grid-template-columns: repeat(4, 70px);
   grid-template-rows: repeat(5, 70px); 
   background-color: orange;
-  height: 500px;
-  width: 500px;
+  height: auto;
+  width: auto;
 }
