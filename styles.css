@@ -49,6 +49,18 @@ body{
   width: 50px;
 }
 
+#content > .section > #calculator > .button2{
+  grid-column: span 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  border: solid;
+  margin: 5px;
+  height: 50px;
+  width: 50px;
+}
+
 #content > .section > #calculator{
   display: grid;
   grid-template-columns: repeat(4, 70px);
