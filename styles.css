@@ -65,7 +65,7 @@ body{
   margin: 5px;
   height: 50px;
   width: auto;
-  text-size: 5rem;
+  font-size: 2rem;
 }
 
 #content > .section > #calculator > .button2:hover{
