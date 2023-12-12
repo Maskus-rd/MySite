@@ -16,7 +16,7 @@ body{
 #content{
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: #203D46;
 }
 
 #footer{
